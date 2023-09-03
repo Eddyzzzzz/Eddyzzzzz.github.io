@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/zh/certificate", {data:[{}],fetch:{},mutations:[]});

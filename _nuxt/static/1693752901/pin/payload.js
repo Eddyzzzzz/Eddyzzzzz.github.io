@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pin", {data:[{}],fetch:{},mutations:[]});
