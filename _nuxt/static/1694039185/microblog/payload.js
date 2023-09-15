@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/microblog", {data:[{}],fetch:{},mutations:[]});
