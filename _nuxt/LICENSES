@@ -29,12 +29,6 @@ object-assign
  */
 
 /*!
- * vue-i18n v8.28.2 
- * (c) 2022 kazuya kawaguchi
- * Released under the MIT License.
- */
-
-/*!
  * vue-no-ssr v1.1.1
  * (c) 2018-present egoist <0x142857@gmail.com>
  * Released under the MIT License.

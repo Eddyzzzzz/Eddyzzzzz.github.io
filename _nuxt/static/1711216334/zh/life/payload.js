@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/zh/life", {data:[{}],fetch:{},mutations:[]});
